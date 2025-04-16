@@ -1,0 +1,48 @@
+[
+      {
+        "id": "stu_001",
+        "name": "Alice",
+        "marks": {
+          "math": 88,
+          "chemistry": 92,
+          "physics": 85
+        }
+      },
+      {
+        "id": "stu_002",
+        "name": "Bob",
+        "marks": {
+          "math": 76,
+          "chemistry": 81,
+          "physics": 79
+        }
+      },
+      {
+        "id": "stu_003",
+        "name": "Charlie",
+        "marks": {
+          "math": 91,
+          "chemistry": 89,
+          "physics": 94
+        }
+      },
+      {
+        "id": "stu_004",
+        "name": "Diana",
+        "marks": {
+          "math": 84,
+          "chemistry": 86,
+          "physics": 80
+        }
+      },
+      {
+        "id": "stu_005",
+        "name": "Ethan",
+        "marks": {
+          "math": 73,
+          "chemistry": 78,
+          "physics": 75
+        }
+      }
+    ]
+  

@@ -1,0 +1,43 @@
+[
+      {
+        "id": "pkg_basic",
+        "name": "Basic",
+        "price": "$19/month",
+        "description": "Perfect for individuals or small startups just getting started.",
+        "features": [
+          "1 Website",
+          "10 GB Storage",
+          "Basic Support",
+          "Free SSL"
+        ]
+      },
+      {
+        "id": "pkg_standard",
+        "name": "Standard",
+        "price": "$49/month",
+        "popular": true,
+        "description": "Ideal for growing businesses that need more resources and support.",
+        "features": [
+          "5 Websites",
+          "50 GB Storage",
+          "Priority Support",
+          "Free SSL",
+          "Daily Backups"
+        ]
+      },
+      {
+        "id": "pkg_premium",
+        "name": "Premium",
+        "price": "$99/month",
+        "description": "Best for agencies and enterprises that need top-tier performance and security.",
+        "features": [
+          "Unlimited Websites",
+          "200 GB Storage",
+          "24/7 Premium Support",
+          "Free SSL",
+          "Daily Backups",
+          "Advanced Security"
+        ]
+      }
+    ]
+  
